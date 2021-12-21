@@ -1,2 +1,3 @@
-Leader = Ben
-Staff = -
+Leader = Ben Nu
+Staff = Joko
+Done.
